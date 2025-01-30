@@ -8,7 +8,7 @@ public class Pattern1 {
             }
             for (int j=0; j<n-i; j++){
 
-                System.out.print("*"); //same mistake occur here
+                System.out.print("*"); //same mistake occurred here
             }
             System.out.print("\n");
         }
